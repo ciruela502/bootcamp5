@@ -3,4 +3,5 @@
     <string name="min">min</string>
     <string name="description">Producent: %1$s\nWersja: %2$s\nRozdzielczość: %3$.2f\nDelay: %4$d</string>
     <string name="no_rotation_sensor">brak odpowiedniego sensora</string>
+    <string name="info_ball">kulka wypadała!</string>
 </resources>
